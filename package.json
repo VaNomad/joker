@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "name": "joker-sjur",
   "version": "0.1.0",
   "description": "example",
   "main": "src/index.js",
@@ -29,6 +29,7 @@
     "prettier": "^2.8.3"
   },
   "dependencies": {
+    "example-joker": "^0.0.4",
     "give-me-a-joke": "^0.5.1"
   }
 }
